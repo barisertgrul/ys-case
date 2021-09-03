@@ -1,0 +1,8 @@
+{
+  "platform": "chrome",
+  "host":"https://www.yemeksepeti.com",
+  "user":"baristestmail@gmail.com",
+  "password":"123456Be.",
+  "wrongpassword": "123456Be"
+
+}
